@@ -1970,7 +1970,7 @@ the map in sync with the linked list automatically
 - Added menu option 8 to view difficulty counts from the menu
 - Added 8 new tests covering all map operations and edge cases
 
-Why a map :
+Why choose map :
 A map gives instant O(log n) lookup by difficulty name without
 looping through all activities.This enhances the existing program
 by making difficulty based reporting faster and cleaner.
